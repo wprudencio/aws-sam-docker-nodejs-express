@@ -1,5 +1,5 @@
 
-# aws-sam-docker-nodejs-express
+# aws-sam-lambda-docker-nodejs-express
 
 <img width="973" alt="Screenshot 2023-09-17 at 20 36 57" src="https://github.com/wprudencio/aws-sam-docker-nodejs-express/assets/743040/62742410-e62f-4123-9ca8-eaa0be8131d1">
 
